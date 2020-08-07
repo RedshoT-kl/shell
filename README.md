@@ -1,4 +1,4 @@
-# Custstomized PhP Mini Shell
+# Custstomized Mini PhP Shell
 
 Telegram id : @RedshoT_Kl
 
